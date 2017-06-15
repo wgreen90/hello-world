@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My first repository, this is a example of making changes and committing changes
